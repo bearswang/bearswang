@@ -4,7 +4,7 @@ I am a researcher in the area of robotics. It would be a pleasure to work with y
 
 I have worked on projects related to robot perception, navigation, collaboration, and simulation.
 
-Looking for an exciting opportunity. (Robotics or Autonomous Driving)
+Look forward to an exciting collaboration on robotics or autonomous driving.
 
 **Skills**: **Python**, **ROS**, **C++**, **Carla**, and more.
 
