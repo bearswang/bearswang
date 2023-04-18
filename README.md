@@ -2,7 +2,7 @@
 
 I am a researcher in the area of robotics. It would be a pleasure to work with you on your robotics projects.
 
-I have worked on projects related to robot perception, navigation, collaboration, and simulation.
+I have worked on projects related to robot perception, navigation, communication, and simulation.
 
 Look forward to an exciting collaboration on robotics or autonomous driving.
 
