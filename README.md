@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Shuai Wang (or Shuai)
 
-I am a researcher in the area of robotics. It would be a pleasure to work with you on your robotics projects.
+I am a researcher in the area of robotics and communications. It would be a pleasure to work with you on your projects.
 
 I have worked on projects related to robot perception, navigation, communication, and simulation.
 
-I have some publications on IEEE NETW/MCOM/TITS/RAL/ICRA and received awards from IEEE SPCC/ICC/ICCCS/TWC/WCL.
+I have some publications on IEEE NETW/MCOM/TWC/TITS/RAL/ICRA and received awards from IEEE SPCC/ICC/ICCCS/TWC/WCL.
 
 Look forward to an exciting collaboration with you!
 
