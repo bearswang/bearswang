@@ -9,5 +9,3 @@ I have some publications on IEEE NETW/MCOM/TWC/TITS/RAL/ICRA and received awards
 Look forward to an exciting collaboration with you!
 
 **Skills**: **Python**, **ROS**, **C++**, **Carla**, and more.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearswang)](https://github.com/anuraghazra/github-readme-stats)
