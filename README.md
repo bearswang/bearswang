@@ -4,11 +4,11 @@ I am a researcher in the area of robotics and communications. It would be a plea
 
 I have worked on projects related to robot perception, navigation, communication, and simulation.
 
-I have journal publications on IEEE TMECH/RAL (robotics), TSP/JSTSP (signal), TIT/TWC/JSAC (communication), and TITS/TVT (transportation).
+I have journal publications on IEEE TRO、TIT、TMECH、TSP、TWC、TITS、RAL.
 
-I have conference publications on ICRA/IROS (robotics) and ICASSP/ICC (communication).
+I have conference publications on ICRA、IROS、ICASSP.
 
-I have received awards from IEEE ICDCSW/SPCC/ICC/ICCCS/TWC/WCL.
+I have received awards from IEEE ICDCSW、SPCC、ICC、ICCCS、TWC、WCL.
 
 Look forward to an exciting collaboration with you!
 
