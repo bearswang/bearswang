@@ -2,11 +2,11 @@
 
 I am a researcher in the area of robotics and communications. It would be a pleasure to work with you on your projects.
 
-I have worked on projects related to robot perception, navigation, communication, and simulation.
+I have worked on projects related to robot learning and coordination.
 
-I have journal publications on IEEE TRO、TIT、TMECH、RAL、TWC、TCCN.
+I have journal publications on IEEE TRO、TIT、TMech、RAL、TWC、TCOM、TITS、TVT、TCCN、WCL.
 
-I have conference publications on ICRA、IROS、ICASSP.
+I have conference publications on ICRA、IROS、NeurIPS、AAAI、ICASSP、GLOBECOM、ICC.
 
 I have received awards from IEEE ICDCSW、SPCC、ICC、ICCCS、TWC、WCL.
 
